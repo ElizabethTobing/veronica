@@ -8,5 +8,5 @@ it uses some Python2.7 and Python 3.0 modules bellow:
 - eja (word spelling corrector)
 - voice (voice recognition library based on given frequency)
 
-*some other library that it would be use will be added as soon as possible
+*some other libraries that it would be use will be added as soon as possible
 
